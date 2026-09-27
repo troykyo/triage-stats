@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T10:40:24+02:00",
-  "last_cycle_hours_ago": 0.0,
-  "last_digest_hours_ago": 0.36,
+  "generated_at": "2026-09-27T10:45:08+02:00",
+  "last_cycle_hours_ago": 0.08,
+  "last_digest_hours_ago": 0.44,
   "history_size": 82,
   "run": {
     "triaged": 0,
@@ -23,78 +23,8 @@
   },
   "security": {
     "injection_flagged": 8,
-    "pii_detected": 1,
-    "vip_matched": 4,
-    "vip_list_size": 185,
-    "domain_rules": 3
+    "pii_detected": 1
   },
-  "cost": {
-    "model": "opus (auto-resolved)",
-    "today_eur": 0.0996,
-    "daily_cap_eur": 2.0,
-    "total_eur": 0.115,
-    "total_calls": 8,
-    "input_tokens": 16834,
-    "output_tokens": 1635
-  },
-  "volume_14d": [
-    {
-      "day": "2026-09-14",
-      "n": 0
-    },
-    {
-      "day": "2026-09-15",
-      "n": 0
-    },
-    {
-      "day": "2026-09-16",
-      "n": 0
-    },
-    {
-      "day": "2026-09-17",
-      "n": 0
-    },
-    {
-      "day": "2026-09-18",
-      "n": 0
-    },
-    {
-      "day": "2026-09-19",
-      "n": 0
-    },
-    {
-      "day": "2026-09-20",
-      "n": 0
-    },
-    {
-      "day": "2026-09-21",
-      "n": 0
-    },
-    {
-      "day": "2026-09-22",
-      "n": 0
-    },
-    {
-      "day": "2026-09-23",
-      "n": 0
-    },
-    {
-      "day": "2026-09-24",
-      "n": 0
-    },
-    {
-      "day": "2026-09-25",
-      "n": 0
-    },
-    {
-      "day": "2026-09-26",
-      "n": 0
-    },
-    {
-      "day": "2026-09-27",
-      "n": 23
-    }
-  ],
   "received": {
     "today": 3,
     "yesterday": 3,
