@@ -1,0 +1,6 @@
+# This repo is public and holds exactly three files. Nothing else belongs here.
+*
+!.gitignore
+!README.md
+!index.html
+!stats.json
