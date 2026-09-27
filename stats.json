@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-09-27T11:11:11+02:00",
+  "generated_at": "2026-09-27T11:22:39+02:00",
   "last_cycle_hours_ago": 0.0,
-  "last_digest_hours_ago": 0.87,
-  "history_size": 84,
+  "last_digest_hours_ago": 1.07,
+  "history_size": 100,
   "run": {
-    "triaged": 2,
-    "drafts": 0,
-    "needs_reply": 0,
+    "triaged": 20,
+    "drafts": 3,
+    "needs_reply": 3,
     "sensitive": 0
   },
   "by_label": {
-    "URGENT": 8,
+    "URGENT": 11,
     "GENERAL": 38,
     "SENSITIVE": 0,
-    "SPAM": 38
+    "SPAM": 51
   },
   "routing": {
-    "drafted": 84,
-    "local": 38,
-    "claude": 6,
-    "local_pct": 45.2
+    "drafted": 100,
+    "local": 40,
+    "claude": 7,
+    "local_pct": 40.0
   },
   "security": {
-    "injection_flagged": 9,
+    "injection_flagged": 23,
     "pii_detected": 1
   },
   "received": {
-    "today": 5,
-    "yesterday": 3,
-    "week_to_date": 428,
+    "today": 8,
+    "yesterday": 6,
+    "week_to_date": 590,
     "daily_7d": [
       {
         "day": "2026-09-21",
-        "n": 73
+        "n": 120
       },
       {
         "day": "2026-09-22",
-        "n": 108
+        "n": 125
       },
       {
         "day": "2026-09-23",
-        "n": 85
+        "n": 118
       },
       {
         "day": "2026-09-24",
-        "n": 88
+        "n": 121
       },
       {
         "day": "2026-09-25",
-        "n": 66
+        "n": 92
       },
       {
         "day": "2026-09-26",
-        "n": 3
+        "n": 6
       },
       {
         "day": "2026-09-27",
-        "n": 5
+        "n": 8
       }
     ],
     "available": true
@@ -64,10 +64,10 @@
   "weekly": {
     "available": true,
     "current_week": 39,
-    "this_week_total": 162,
+    "this_week_total": 234,
     "same_week_prior_avg": 437.0,
-    "vs_prior_pct": -62.9,
-    "year_to_date": 17105,
+    "vs_prior_pct": -46.5,
+    "year_to_date": 17856,
     "years": {
       "2026": [
         374,
@@ -98,17 +98,17 @@
         495,
         448,
         487,
-        395,
+        394,
         303,
         367,
         342,
-        376,
-        476,
-        458,
-        519,
-        433,
-        505,
-        162,
+        409,
+        587,
+        570,
+        649,
+        583,
+        649,
+        234,
         0,
         0,
         0,
