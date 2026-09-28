@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-28T13:46:25+02:00",
+  "generated_at": "2026-09-28T13:56:51+02:00",
   "last_cycle_hours_ago": 0.0,
-  "last_digest_hours_ago": 1.59,
+  "last_digest_hours_ago": 1.77,
   "history_size": 100,
   "run": {
     "triaged": 2,
-    "drafts": 1,
-    "needs_reply": 1,
+    "drafts": 0,
+    "needs_reply": 0,
     "sensitive": 0
   },
   "by_label": {
-    "URGENT": 34,
+    "URGENT": 33,
     "GENERAL": 17,
     "SENSITIVE": 1,
-    "SPAM": 48
+    "SPAM": 49
   },
   "routing": {
     "drafted": 100,
-    "local": 24,
-    "claude": 26,
-    "local_pct": 24.0
+    "local": 23,
+    "claude": 25,
+    "local_pct": 23.0
   },
   "security": {
     "injection_flagged": 29,
-    "pii_detected": 1
+    "pii_detected": 0
   },
   "received": {
     "today": 56,
