@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-29T08:58:18+02:00",
+  "generated_at": "2026-09-29T09:08:26+02:00",
   "last_cycle_hours_ago": 0.0,
-  "last_digest_hours_ago": 0.86,
+  "last_digest_hours_ago": 1.03,
   "history_size": 100,
   "run": {
-    "triaged": 2,
-    "drafts": 2,
-    "needs_reply": 2,
+    "triaged": 1,
+    "drafts": 0,
+    "needs_reply": 0,
     "sensitive": 0
   },
   "by_label": {
@@ -22,7 +22,7 @@
     "local_pct": 24.0
   },
   "security": {
-    "injection_flagged": 20,
+    "injection_flagged": 19,
     "pii_detected": 1
   },
   "received": {
