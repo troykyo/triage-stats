@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-30T21:23:32+02:00",
+  "generated_at": "2026-09-30T21:33:38+02:00",
   "last_cycle_hours_ago": 0.0,
-  "last_digest_hours_ago": 1.35,
+  "last_digest_hours_ago": 1.52,
   "history_size": 100,
   "run": {
-    "triaged": 1,
-    "drafts": 1,
-    "needs_reply": 1,
-    "sensitive": 1
+    "triaged": 0,
+    "drafts": 0,
+    "needs_reply": 0,
+    "sensitive": 0
   },
   "by_label": {
     "URGENT": 52,
