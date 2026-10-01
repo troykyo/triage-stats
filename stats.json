@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-01T08:30:13+02:00",
+  "generated_at": "2026-10-01T08:40:37+02:00",
   "last_cycle_hours_ago": 0.0,
-  "last_digest_hours_ago": 0.35,
+  "last_digest_hours_ago": 0.52,
   "history_size": 100,
   "run": {
     "triaged": 1,
-    "drafts": 1,
-    "needs_reply": 1,
+    "drafts": 0,
+    "needs_reply": 0,
     "sensitive": 0
   },
   "by_label": {
-    "URGENT": 53,
+    "URGENT": 52,
     "GENERAL": 4,
     "SENSITIVE": 2,
-    "SPAM": 41
+    "SPAM": 42
   },
   "routing": {
     "drafted": 100,
     "local": 20,
-    "claude": 37,
+    "claude": 36,
     "local_pct": 20.0
   },
   "security": {
