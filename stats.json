@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-10-01T14:56:33+02:00",
+  "generated_at": "2026-10-01T15:07:05+02:00",
   "last_cycle_hours_ago": 0.0,
-  "last_digest_hours_ago": 2.79,
+  "last_digest_hours_ago": 2.96,
   "history_size": 100,
   "run": {
-    "triaged": 0,
-    "drafts": 0,
-    "needs_reply": 0,
+    "triaged": 1,
+    "drafts": 1,
+    "needs_reply": 1,
     "sensitive": 0
   },
   "by_label": {
-    "URGENT": 48,
-    "GENERAL": 8,
+    "URGENT": 47,
+    "GENERAL": 9,
     "SENSITIVE": 1,
     "SPAM": 43
   },
   "routing": {
     "drafted": 100,
-    "local": 24,
-    "claude": 31,
-    "local_pct": 24.0
+    "local": 25,
+    "claude": 30,
+    "local_pct": 25.0
   },
   "security": {
-    "injection_flagged": 29,
+    "injection_flagged": 30,
     "pii_detected": 2
   },
   "received": {
-    "today": 58,
+    "today": 60,
     "yesterday": 94,
-    "week_to_date": 352,
+    "week_to_date": 354,
     "daily_7d": [
       {
         "day": "2026-09-25",
@@ -56,7 +56,7 @@
       },
       {
         "day": "2026-10-01",
-        "n": 58
+        "n": 60
       }
     ],
     "available": true
@@ -64,10 +64,10 @@
   "weekly": {
     "available": true,
     "current_week": 40,
-    "this_week_total": 58,
+    "this_week_total": 60,
     "same_week_prior_avg": 475.0,
-    "vs_prior_pct": -87.8,
-    "year_to_date": 18237,
+    "vs_prior_pct": -87.4,
+    "year_to_date": 18239,
     "years": {
       "2026": [
         374,
@@ -109,7 +109,7 @@
         583,
         648,
         559,
-        58,
+        60,
         0,
         0,
         0,
