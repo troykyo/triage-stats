@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T14:06:00+02:00",
+  "generated_at": "2026-10-04T14:16:05+02:00",
   "last_cycle_hours_ago": 0.0,
-  "last_digest_hours_ago": 2.08,
+  "last_digest_hours_ago": 2.25,
   "history_size": 100,
   "run": {
     "triaged": 0,
@@ -67,7 +67,7 @@
     "this_week_total": 275,
     "same_week_prior_avg": 475.0,
     "vs_prior_pct": -42.1,
-    "year_to_date": 18445,
+    "year_to_date": 18444,
     "years": {
       "2026": [
         374,
@@ -108,7 +108,7 @@
         649,
         583,
         648,
-        550,
+        549,
         275,
         0,
         0,
