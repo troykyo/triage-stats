@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T20:13:01+02:00",
+  "generated_at": "2026-10-04T20:43:15+02:00",
   "last_cycle_hours_ago": 0.0,
-  "last_digest_hours_ago": 0.17,
+  "last_digest_hours_ago": 0.67,
   "history_size": 100,
   "run": {
     "triaged": 0,
@@ -26,9 +26,9 @@
     "pii_detected": 0
   },
   "received": {
-    "today": 54,
+    "today": 56,
     "yesterday": 62,
-    "week_to_date": 572,
+    "week_to_date": 574,
     "daily_7d": [
       {
         "day": "2026-09-28",
@@ -56,7 +56,7 @@
       },
       {
         "day": "2026-10-04",
-        "n": 54
+        "n": 56
       }
     ],
     "available": true
@@ -64,10 +64,10 @@
   "weekly": {
     "available": true,
     "current_week": 40,
-    "this_week_total": 288,
+    "this_week_total": 290,
     "same_week_prior_avg": 475.0,
-    "vs_prior_pct": -39.4,
-    "year_to_date": 18457,
+    "vs_prior_pct": -38.9,
+    "year_to_date": 18459,
     "years": {
       "2026": [
         374,
@@ -109,7 +109,7 @@
         583,
         648,
         549,
-        288,
+        290,
         0,
         0,
         0,
