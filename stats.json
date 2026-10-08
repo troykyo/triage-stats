@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-08T16:39:39+02:00",
+  "generated_at": "2026-10-08T16:50:22+02:00",
   "last_cycle_hours_ago": 0.01,
-  "last_digest_hours_ago": 0.54,
+  "last_digest_hours_ago": 0.72,
   "history_size": 100,
   "run": {
-    "triaged": 2,
+    "triaged": 0,
     "drafts": 0,
     "needs_reply": 0,
     "sensitive": 0
