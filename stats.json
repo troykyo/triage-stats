@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-08T17:37:22+02:00",
+  "generated_at": "2026-10-08T17:48:04+02:00",
   "last_cycle_hours_ago": 0.01,
-  "last_digest_hours_ago": 1.51,
+  "last_digest_hours_ago": 1.69,
   "history_size": 100,
   "run": {
-    "triaged": 7,
-    "drafts": 1,
-    "needs_reply": 1,
+    "triaged": 0,
+    "drafts": 0,
+    "needs_reply": 0,
     "sensitive": 0
   },
   "by_label": {
