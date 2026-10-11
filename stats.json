@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T17:26:40+02:00",
+  "generated_at": "2026-10-11T17:46:56+02:00",
   "last_cycle_hours_ago": 0.0,
-  "last_digest_hours_ago": 1.37,
+  "last_digest_hours_ago": 1.71,
   "history_size": 100,
   "run": {
     "triaged": 0,
@@ -27,8 +27,8 @@
   },
   "received": {
     "today": 32,
-    "yesterday": 40,
-    "week_to_date": 495,
+    "yesterday": 39,
+    "week_to_date": 494,
     "daily_7d": [
       {
         "day": "2026-10-05",
@@ -52,7 +52,7 @@
       },
       {
         "day": "2026-10-10",
-        "n": 40
+        "n": 39
       },
       {
         "day": "2026-10-11",
