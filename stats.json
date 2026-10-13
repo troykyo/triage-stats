@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T23:30:24+02:00",
+  "generated_at": "2026-10-14T00:00:44+02:00",
   "last_cycle_hours_ago": 0.0,
-  "last_digest_hours_ago": 1.55,
+  "last_digest_hours_ago": 2.05,
   "history_size": 100,
   "run": {
     "triaged": 0,
@@ -26,14 +26,10 @@
     "pii_detected": 1
   },
   "received": {
-    "today": 105,
-    "yesterday": 72,
+    "today": 0,
+    "yesterday": 105,
     "week_to_date": 177,
     "daily_7d": [
-      {
-        "day": "2026-10-07",
-        "n": 79
-      },
       {
         "day": "2026-10-08",
         "n": 98
@@ -57,6 +53,10 @@
       {
         "day": "2026-10-13",
         "n": 105
+      },
+      {
+        "day": "2026-10-14",
+        "n": 0
       }
     ],
     "available": true
