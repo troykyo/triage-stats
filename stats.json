@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-20T15:59:08+02:00",
+  "generated_at": "2026-10-20T16:19:36+02:00",
   "last_cycle_hours_ago": 0.0,
   "last_digest_hours_ago": 0.0,
   "history_size": 100,
   "run": {
-    "triaged": 0,
+    "triaged": 1,
     "drafts": 0,
-    "needs_reply": 0,
+    "needs_reply": 1,
     "sensitive": 0
   },
   "by_label": {
-    "URGENT": 20,
+    "URGENT": 21,
     "GENERAL": 44,
     "SENSITIVE": 0,
-    "SPAM": 36
+    "SPAM": 35
   },
   "routing": {
     "drafted": 100,
