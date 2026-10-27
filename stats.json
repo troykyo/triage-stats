@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:04:32+01:00",
+  "generated_at": "2026-10-27T11:14:38+01:00",
   "last_cycle_hours_ago": 0.0,
   "last_digest_hours_ago": 0.0,
   "history_size": 100,
@@ -67,7 +67,7 @@
     "this_week_total": 267,
     "same_week_prior_avg": 450.3,
     "vs_prior_pct": -40.7,
-    "year_to_date": 19871,
+    "year_to_date": 19865,
     "years": {
       "2026": [
         374,
@@ -110,8 +110,8 @@
         647,
         548,
         540,
-        472,
-        433,
+        467,
+        432,
         267,
         0,
         0,
