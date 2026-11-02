@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T07:59:38+01:00",
+  "generated_at": "2026-11-02T08:19:51+01:00",
   "last_cycle_hours_ago": 0.0,
   "last_digest_hours_ago": 0.0,
   "history_size": 100,
@@ -67,7 +67,7 @@
     "this_week_total": 243,
     "same_week_prior_avg": 417.0,
     "vs_prior_pct": -41.7,
-    "year_to_date": 19234,
+    "year_to_date": 19233,
     "years": {
       "2026": [
         347,
@@ -112,7 +112,7 @@
         509,
         451,
         414,
-        418,
+        417,
         243,
         0,
         0,
