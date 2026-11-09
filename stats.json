@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:02:21+01:00",
+  "generated_at": "2026-11-09T14:12:29+01:00",
   "last_cycle_hours_ago": 0.0,
   "last_digest_hours_ago": 0.0,
   "history_size": 100,
@@ -11,9 +11,9 @@
   },
   "by_label": {
     "URGENT": 14,
-    "GENERAL": 53,
+    "GENERAL": 52,
     "SENSITIVE": 0,
-    "SPAM": 33
+    "SPAM": 34
   },
   "routing": {
     "drafted": 100,
