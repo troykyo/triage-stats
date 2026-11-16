@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T09:31:16+01:00",
+  "generated_at": "2026-11-16T09:41:23+01:00",
   "last_cycle_hours_ago": 0.0,
   "last_digest_hours_ago": 0.0,
   "history_size": 100,
@@ -10,8 +10,8 @@
     "sensitive": 0
   },
   "by_label": {
-    "URGENT": 14,
-    "GENERAL": 47,
+    "URGENT": 13,
+    "GENERAL": 48,
     "SENSITIVE": 0,
     "SPAM": 39
   },
