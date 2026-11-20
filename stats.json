@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T07:18:48+01:00",
+  "generated_at": "2026-11-20T08:29:43+01:00",
   "last_cycle_hours_ago": 0.0,
   "last_digest_hours_ago": 0.0,
   "history_size": 100,
@@ -26,8 +26,8 @@
     "pii_detected": 1
   },
   "received": {
-    "today": 6,
-    "yesterday": 125,
+    "today": 7,
+    "yesterday": 124,
     "week_to_date": 387,
     "daily_7d": [
       {
@@ -52,11 +52,11 @@
       },
       {
         "day": "2026-11-19",
-        "n": 125
+        "n": 124
       },
       {
         "day": "2026-11-20",
-        "n": 6
+        "n": 7
       }
     ],
     "available": true
